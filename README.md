@@ -1,5 +1,5 @@
-# nyc-recs
-food, museum, and store recommendations in NYC!
+# NYC Recs
+Food, museum, and bookshop recommendations in NYC!
 
-# Sources
+## Image Sources
 * https://emojipedia.org
