@@ -15,12 +15,31 @@ p {
 
 li {
     display: inline;
+    list-style-type: none;
+}
+
+ul a {
     font-family: 'Nunito', sans-serif;
     color: rgb(54, 31, 4);
     text-decoration: none; 
-    list-style-type: none;
+}
+
+ul a:visited {
+    color: rgb(54, 31, 4);
+    text-decoration: none;
 }
 
 ul a:hover {
     color: rgb(54, 31, 4);
+    text-decoration: none;
+}
+
+ul a:focus {
+    color: rgb(54, 31, 4);
+    text-decoration: none;
+}
+
+ul a:hover, a:active {
+    color: rgb(54, 31, 4);
+    text-decoration: none;
 }
