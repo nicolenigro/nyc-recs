@@ -8,29 +8,30 @@ h1 {
     color: rgb(87, 63, 33)
 }
 
-p {
+p a{
     font-family: 'Nunito', sans-serif;
-    color: rgb(54, 31, 4)
-}
-
-p:visited {
-    color: rgb(54, 31, 4);
-    text-decoration: none;
-}
-
-p:hover {
     color: rgb(54, 31, 4);
     text-decoration: underline;
 }
 
-p:focus {
+p a:visited {
     color: rgb(54, 31, 4);
-    text-decoration: none;
+    text-decoration: underline;
 }
 
-p:hover, a:active {
+p a:hover {
     color: rgb(54, 31, 4);
-    text-decoration: none;
+    text-decoration: underline;
+}
+
+p a:focus {
+    color: rgb(54, 31, 4);
+    text-decoration: underline;
+}
+
+p a:hover, a:active {
+    color: rgb(54, 31, 4);
+    text-decoration: underline;
 }
 
 li {
