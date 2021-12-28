@@ -8,6 +8,11 @@ h1 {
     color: rgb(87, 63, 33)
 }
 
+h3 {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(54, 31, 4)
+}
+
 p {
     font-family: 'Nunito', sans-serif;
     color: rgb(54, 31, 4)
@@ -34,7 +39,7 @@ ul a:visited {
 
 ul a:hover {
     color: rgb(54, 31, 4);
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 ul a:focus {
