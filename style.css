@@ -8,6 +8,11 @@ h1 {
     color: rgb(87, 63, 33)
 }
 
+p {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(54, 31, 4);
+}
+
 p a{
     font-family: 'Nunito', sans-serif;
     color: rgb(54, 31, 4);
@@ -41,6 +46,7 @@ li {
     color: rgb(54, 31, 4);
     text-decoration: none; 
     font-size: larger;
+    padding: 6px;
 }
 
 ul a {
@@ -65,13 +71,5 @@ ul a:focus {
 
 ul a:hover, a:active {
     color: rgb(54, 31, 4);
-    text-decoration: none;
-}
-
-li {
-    border-right: 1px rgb(54, 31, 4);
-}
-
-li:last-child {
-    border-right: none;
+    text-decoration: underline;
 }
