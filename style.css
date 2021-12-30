@@ -1,8 +1,11 @@
+* {
+    cursor: url(assets/cheese.png), auto;
+}
+
 body {
     background-color: rgb(255, 242, 224);
     text-align: center;
     padding: 10px;
-    cursor: url(assets/cheese.png), auto;
 }
 
 h1 {
