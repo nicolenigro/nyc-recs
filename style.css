@@ -54,6 +54,10 @@ p a:hover, a:active {
     text-decoration-style: wavy;
 }
 
+ul {
+    padding-inline-start: 0px;
+}
+
 li {
     display: inline;
     list-style-type: none;
