@@ -10,7 +10,12 @@ body {
 
 h1 {
     font-family: 'Righteous', cursive;
-    color: rgb(87, 63, 33)
+    color: rgb(87, 63, 33);
+    margin-bottom: 0px;
+}
+
+h6 {
+    margin: 0px;
 }
 
 p {
@@ -21,27 +26,32 @@ p {
 p a{
     font-family: 'Nunito', sans-serif;
     color: rgb(54, 31, 4);
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
 
 p a:visited {
     color: rgb(54, 31, 4);
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
 
 p a:hover {
     color: rgb(54, 31, 4);
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
 
 p a:focus {
     color: rgb(54, 31, 4);
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
 
 p a:hover, a:active {
     color: rgb(54, 31, 4);
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
 
 li {
@@ -66,7 +76,8 @@ ul a:visited {
 
 ul a:hover {
     color: rgb(54, 31, 4);
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
 
 ul a:focus {
@@ -76,5 +87,6 @@ ul a:focus {
 
 ul a:hover, a:active {
     color: rgb(54, 31, 4);
-    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
 }
