@@ -28,34 +28,40 @@ p a{
     color: rgb(54, 31, 4);
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    text-decoration-color: rgb(199, 246, 255);
 }
 
 p a:visited {
     color: rgb(54, 31, 4);
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    text-decoration-color: rgb(199, 246, 255);
 }
 
 p a:hover {
     color: rgb(54, 31, 4);
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    text-decoration-color: rgb(199, 246, 255);
 }
 
 p a:focus {
     color: rgb(54, 31, 4);
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    text-decoration-color: rgb(199, 246, 255);
 }
 
 p a:hover, a:active {
     color: rgb(54, 31, 4);
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    text-decoration-color: rgb(199, 246, 255);
 }
 
-ul {
+ul, menu, dir {
     padding-inline-start: 0px;
+    padding-left: 0px;
 }
 
 li {
@@ -82,6 +88,7 @@ ul a:hover {
     color: rgb(54, 31, 4);
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    text-decoration-color: rgb(233, 199, 255);
 }
 
 ul a:focus {
@@ -93,4 +100,5 @@ ul a:hover, a:active {
     color: rgb(54, 31, 4);
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    text-decoration-color: rgb(233, 199, 255);
 }
