@@ -18,6 +18,12 @@ h6 {
     margin: 0px;
 }
 
+button {
+    font-family: 'Nunito', sans-serif;
+    border: none;
+    background: none;
+}
+
 p {
     font-family: 'Nunito', sans-serif;
     color: rgb(54, 31, 4);
