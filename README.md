@@ -1,5 +1,5 @@
 # NYC Recs
-Food recommendations in NYC!
+and seattle and maine and california .. anywhere I spent time and ate food and loved life <3
 
 ## Image Sources
 * https://emojipedia.org
